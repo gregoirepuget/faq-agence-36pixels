@@ -10,6 +10,7 @@ Les réponses sont initialement toutes cachées.
 ### Objectif du HTML 
 
 - Choisir les bonnes balises pour réaliser le FAQ et pouvoir les justifier.
+- Ne pas faire de header, ni de footer, se concentrer sur la partie FAQ.
 
 ### Objectif du CSS
 
